@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/itsmohsin/itsmohsin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itsmohsin&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/itsmohsin/itsmohsin">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmohsin&theme=radical" />
+</a>
+
+
+
